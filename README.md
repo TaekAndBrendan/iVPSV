@@ -78,7 +78,7 @@ Hyungtaek Jung, Brendan Jeon, Ben Hayes, and Elizabeth Ross: **iVPSV**: An intui
     
 ## STABLE (version 1.0.XXX)
 Release date: July 2022
-**iVPSV** is made up of six programs and packages (See LICENSE), mainly written in Python 3.7+ and JavaXXX.
+**iVPSV** is made up of six programs and packages (See LICENSE), mainly written in Python 3.7+.
 
 ## INSTALLATION
 Windows: Please download the program from [this link](https://github.com/TaekAndBrendan/ivpsv/ivpsv-08.5.7z)
@@ -112,6 +112,8 @@ python ivpsv.py
 [gffutils](https://github.com/daler/gffutils) for working with and manipulating the [GFF](https://seqan.readthedocs.io/en/master/Tutorial/InputOutput/GffAndGtfIO.html), [GFF3](https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md) and [GTF](https://biocorecrg.github.io/PhD_course/gtf_format.html) format files
 
 [PyVCF](https://pyvcf.readthedocs.io/en/latest/#) for parsing variant call format by mimicking the csv module in the Python stdlib, as opposed to more flexible serialisation formats like JSON or YAML
+
+[bamnostic](https://bamnostic.readthedocs.io/en/latest/index.html) for OS-agnositic Binary Alignment Map (BAM) file parser and random access tool
 
 [D3.js](https://d3js.org/) for producing dynamic, interactive data visualisation with HTML, SVG and CSS
 
