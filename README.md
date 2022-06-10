@@ -133,13 +133,13 @@ ivpsv is provided under the MIT license and is based on other open-source softwa
 
 
 ## Tested Programs
-Shor-read aligner: [BWA-MEM](https://github.com/lh3/bwa), [Bowtie2](https://github.com/BenLangmead/bowtie2) and [Minimap2](https://github.com/lh3/minimap2) with SR (short genomic paried-end reads) and MD (output the MD tag) mode
+Shor-read aligners: [BWA-MEM](https://github.com/lh3/bwa), [Bowtie2](https://github.com/BenLangmead/bowtie2) and [Minimap2](https://github.com/lh3/minimap2) with SR (short genomic paried-end reads) and MD (output the MD tag) mode
 
-Long-read aligner: [Minimap2](https://github.com/lh3/minimap2) MAB-PB, MAB-ONT and MD mode
+Long-read aligners: [Minimap2](https://github.com/lh3/minimap2) MAB-PB, MAB-ONT and MD mode
 
 Short-read structuravl variation caller: [Manta](https://github.com/Illumina/manta)
 
-Long-read structuravl variation caller: [cuteSV](https://github.com/tjiangHIT/cuteSV) and [SVIM](https://github.com/eldariont/svim)
+Long-read structuravl variation callers: [cuteSV](https://github.com/tjiangHIT/cuteSV) and [SVIM](https://github.com/eldariont/svim)
 
 
 ## GETTING STARTED
