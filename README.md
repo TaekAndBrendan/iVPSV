@@ -120,17 +120,25 @@ ivpsv is provided under the MIT license and is based on other open-source softwa
 
 ## Tested Datasets
 [Reference genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001735.3/#/st)
+
 [Reference gff3 and gtf](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/735/GCF_000001735.3_TAIR10/GO_TO_CURRENT_VERSION/)
-[Illumina PE reads](https://www.ncbi.nlm.nih.gov/sra/?term=PRJEB31147) and (https://www.nature.com/articles/s41467-020-14779-y)
-[NovaSeq PE reads](https://ngdc.cncb.ac.cn/gsa/browse/CRA004538) and (https://www.sciencedirect.com/science/article/pii/S1672022921001741)
-[Oxford Nanopore reads](https://ngdc.cncb.ac.cn/gsa/browse/CRA004538) and (https://www.sciencedirect.com/science/article/pii/S1672022921001741)
-[PacBio reads](https://www.ncbi.nlm.nih.gov/sra/?term=PRJEB31147) and (https://www.nature.com/articles/s41467-020-14779-y)
+
+[Illumina PE reads](https://www.ncbi.nlm.nih.gov/sra/?term=PRJEB31147) and [it's publication](https://www.nature.com/articles/s41467-020-14779-y)
+
+[NovaSeq PE reads](https://ngdc.cncb.ac.cn/gsa/browse/CRA004538) and [it's publication](https://www.sciencedirect.com/science/article/pii/S1672022921001741)
+
+[Oxford Nanopore reads](https://ngdc.cncb.ac.cn/gsa/browse/CRA004538) and [it's publication](https://www.sciencedirect.com/science/article/pii/S1672022921001741)
+
+[PacBio reads](https://www.ncbi.nlm.nih.gov/sra/?term=PRJEB31147) and [it's publication](https://www.nature.com/articles/s41467-020-14779-y)
 
 
 ## Tested Programs
 Shor-read aligner: [BWA-MEM](https://github.com/lh3/bwa), [Bowtie2](https://github.com/BenLangmead/bowtie2) and [Minimap2](https://github.com/lh3/minimap2) with SR (short genomic paried-end reads) and MD (output the MD tag) mode
+
 Long-read aligner: [Minimap2](https://github.com/lh3/minimap2) MAB-PB, MAB-ONT and MD mode
+
 Short-read structuravl variation caller: [Manta](https://github.com/Illumina/manta)
+
 Long-read structuravl variation caller: [cuteSV](https://github.com/tjiangHIT/cuteSV) and [SVIM](https://github.com/eldariont/svim)
 
 
