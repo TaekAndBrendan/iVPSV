@@ -1,5 +1,5 @@
 ---
-title: "iVPSV: An intuitive visualisation platform for structural variation data on desktops"
+title: "**iVPSV**: An **i**ntuitive **V**isualisation **P**latform for **S**tructural **V**ariation data on desktops"
 author: "Hyungtaek Jung, Brendan Jeon, Ben Hayes, and Elizabeth Ross"
 date: "04 July 2022"
 output:
@@ -58,12 +58,12 @@ library(knitr)
 
 # Brief Background
 
-An intuitive visualisation platform for structural variation (iVPSV) is a lightweight program for working with structural variation data generated from short and long-read sequencing data (e.g. vcf, gff, gtf, bam, and fasta). We (Brendan Jeon and Hyungtaek Jung @ The University of Queensland, Australia) initially started this project to provide a graphical environment for biologists using NGS data who are less experienced in command lines. As a lightweight (but powerful) desktop/laptop application, we have tested it for short (e.g. Illumina paried-end) and long-read data (PacBio and Oxford Nanopore) focusing on a small and medium scale datasets that can be widely used to the greater research community. However, please note that visualising a big dastset would not be recommended due to limiation of computational resources on desktops. 
+An **i**ntuitive **V**isualisation **P**latform for **S**tructural **V**ariation (**iVPSV**) is a lightweight program for working with structural variation data generated from short and long-read sequencing data (e.g. vcf, gff, gtf, bam, and fasta). We (Brendan Jeon and Hyungtaek Jung @ The University of Queensland, Australia) initially started this project to provide a graphical environment for biologists using NGS data who are less experienced in command lines. As a lightweight (but powerful) desktop/laptop application, we have tested it for short (e.g. Illumina paried-end) and long-read data (PacBio and Oxford Nanopore) focusing on a small and medium scale datasets that can be widely used to the greater research community. However, please note that visualising a big dastset would not be recommended due to limiation of computational resources on desktops. 
 
 
 # Citation
 
-Hyungtaek Jung, Brendan Jeon, Ben Hayes, and Elizabeth Ross: iVPSV: An intuitive visualisation platform for structural variation data on desktops, [Bioinformatics Submitted](https://www.biorxiv.org/content/10.1101/2021.09.29.462291v1 XXXXXX).
+Hyungtaek Jung, Brendan Jeon, Ben Hayes, and Elizabeth Ross: **iVPSV**: An intuitive visualisation platform for structural variation data on desktops, [Peparation for Submission](https://www.biorxiv.org/content/XXXXXX).
 
 # Contents
 
@@ -78,7 +78,7 @@ Hyungtaek Jung, Brendan Jeon, Ben Hayes, and Elizabeth Ross: iVPSV: An intuitive
     
 ## STABLE (version 1.0.XXX)
 Release date: July 2022
-iVPSV is made up of six programs and packages (See LICENSE), mainly written in Python 3.7+ and JavaXXX.
+**iVPSV** is made up of six programs and packages (See LICENSE), mainly written in Python 3.7+ and JavaXXX.
 
 ## INSTALLATION
 Windows: Please download the program from [this link](https://github.com/TaekAndBrendan/ivpsv/ivpsv-08.5.7z)
@@ -105,7 +105,7 @@ python ivpsv.py
 
 ## License
 
-ivpsv is provided under the MIT license and is based on other open-source software, Python packages and JavaScript library:
+**iVPSV** is provided under the MIT license and is based on other open-source software, Python packages and JavaScript library:
 
 [PyQt5](https://pypi.org/project/PyQt5/) for a Python binding of the cross-platform GUI toolkit Qt
 
@@ -144,7 +144,7 @@ Long-read structuravl variation callers: [cuteSV](https://github.com/tjiangHIT/c
 
 ## GETTING STARTED
 
-iVPSV, mainly written in Python 3.7+ and JavaScript, has two specific features: a data input module and a result visualisation window. The data input module enables end-to-end file select. The result visualisation window is mainly designed to visulise the outcome selected by a user. Please note that all required input files (e.g. vcf, gff, gtf, bam, and fasta) must be prepared from third party programs before running the iVPSV. And, all input files must be in your local drive on your desktops.
+**iVPSV**, mainly written in Python 3.7+ and JavaScript, has two specific features: a data input module and a result visualisation window. The data input module enables end-to-end file select. The result visualisation window is mainly designed to visulise the outcome selected by a user. Please note that all required input files (e.g. vcf, gff, gtf, bam, and fasta) must be prepared from third party programs before running the **iVPSV**. And, all input files must be in your local drive on your desktops.
 
 
 ### Main data input module (MIM)
@@ -228,7 +228,7 @@ FASTA Step 3) Selected and extracted sequence will be saved in your preferred lo
 
 ## FAQ
 
-We encourage users to use the [Issues](https://github.com/TaekAndBrendan/ivpsv/issues). For further enquiries (including seggestion), you can also contact the ivpsv development team [Brendan Jeon](b.jeon@uq.edu.au) and [Hyungtaek Jung](hyungtaek.jung@uq.edu.au).
+We encourage users to use the [Issues](https://github.com/TaekAndBrendan/ivpsv/issues). For further enquiries (including seggestion), you can also contact the **iVPSV** development team [Brendan Jeon](b.jeon@uq.edu.au) and [Hyungtaek Jung](hyungtaek.jung@uq.edu.au).
 
 ## WIKI PAGE
 
@@ -240,4 +240,4 @@ Please see GitHub page.
 
 ## COPYRIGHT
 
-The full ivpsv is distributed under the MIT license. 
+The full **iVPSV** is distributed under the MIT license. 
