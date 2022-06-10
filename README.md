@@ -200,7 +200,7 @@ VCF Step 3) Natigate the summarised outcomes (Fig 3D and E) (e.g. bar graphs). M
 The SV Navigator is designed to easily import and run searches on a local computer and database. Using "BAM and GFF3", a multipe bam file can be uploaded and analysed. Same filtering options can be applied for the multiple bam files too. Please note bam.bai file must be in the same folder.
 Figure 4 shows an easy step for each stage for the SV Navigator.
 
-![Figure 4: User-friendly standalone work modules in iVPSV: SV Navigator. ](./figures/iVPSV_Pics4.png)
+![Figure 4: User-friendly standalone work modules in iVPSV: SV Navigator. ](./figures/iVPSV_Pics41.png) and (./figures/iVPSV_Pics42.png)
 
 BAM Step 1) Browse and select your input file (multipe bam files) (Fig 4A and B). Once browsed and selected, click Filter (Fig 4C). Or, you can deleted unwated bam file from topdown selection. The GFF3 file can be uploaded via the same Browse and select (Fig 4D).
 
