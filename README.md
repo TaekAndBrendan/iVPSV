@@ -239,7 +239,7 @@ Please see GitHub page.
 
 ## AUTHOR
 
-[Hyungtaek Jung](hyungtaek.jung@uq.edu.au) and [Brendan Joen](b.jeon@uq.edu.au).
+[Hyungtaek Jung](hyungtaek.jung@uq.edu.au) and [Brendan Jeon](b.jeon@uq.edu.au).
 
 ## COPYRIGHT
 
