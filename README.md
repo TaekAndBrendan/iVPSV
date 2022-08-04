@@ -162,6 +162,9 @@ III) Three extra main modules (green box) to assist with main input modules and 
 IV) Informative how to use and outcome window (Fig 1B).
 
 
+![Figure 2: Integration of main data input module of iVPSV.](./figures/iVPSV_Pics2.png)
+
+
 MIM Step 1: Browse and select your input file (one vcf file from I) (Fig 2A and B). Once browsed and selected, click OK. It is highly recommended to make sure your working directory is your local drive for moving the next steps.
 
 MIM Step 2: Browse and select the filtering options from II (Fig 2C). Default will be all chrosomes that will take a longer time to visualise. The checked "Pass" will be default to see the passed structural variation outceom from the vcf file.
